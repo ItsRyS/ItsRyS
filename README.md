@@ -11,7 +11,6 @@ Use modern technology programming languages to build a webapplication, resulting
 
 ### [Smart Drop](https://github.com/ItsRyS/Smart-DropV2)
 An intelligent solution for monitoring and managing fluid delivery with real-time data visualization and automated notifications.
-* Looking for collaborators and contributors - reach out if interested!
 
 ## Skills
 
