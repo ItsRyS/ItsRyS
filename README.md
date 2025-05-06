@@ -1,6 +1,3 @@
-###
-
-
 # Hi 👋! My name is JP.Nut from RMUTL
 
 ## Full Stack Developer
