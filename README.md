@@ -15,9 +15,9 @@ An intelligent solution for monitoring and managing fluid delivery with real-tim
 
 ## Skills
 
-**Frontend:** React.js, JavaScript, HTML5, CSS3, C/Cpp
-**Backend:** Node.js, Express,php ,Python
-**Database:** MySQL, Firebase  
+**Frontend:** React.js, JavaScript, HTML5, CSS3, C/Cpp ,Python  
+**Backend:** Node.js, Express
+**Database:**  MySQL, Firebase  
 **Tools:** Git, VS Code, Figma, Linux
 
 ## Connect With Me
